@@ -2,6 +2,7 @@
 
 use Guzzle\Http\Client;
 use Illuminate\Support\ServiceProvider;
+use Config;
 
 class HudsonServiceProvider extends ServiceProvider {
 
